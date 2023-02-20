@@ -11,4 +11,8 @@ O HTML pode ser usado para criar a estrutura básica dos cards, usando as tags a
 O JavaScript pode ser utilizado para implementar a lógica de expansão dos cards. Ao clicar em um título, o JavaScript pode alterar as propriedades do card para mostrar ou esconder o conteúdo. Também é possível implementar outras funcionalidades, como abrir e fechar automaticamente os cards, ou criar botões para expandir ou recolher todos os cards de uma vez.
 
 No geral, uma página de Accordion Card pode ser uma maneira útil de organizar informações e torná-las mais acessíveis para os usuários. Utilizando as linguagens de marcação HTML, estilização CSS e programação JavaScript, é possível criar uma página visualmente atraente e interativa que atenda às necessidades dos usuários.
+
+
+
 ![image](https://user-images.githubusercontent.com/99044745/220001021-83e8893e-0f5e-419b-a0f2-d0cfbf4042a9.png)
+![image](https://user-images.githubusercontent.com/99044745/220001292-78e70f5a-80aa-4c3e-a7ed-3e80e45334a0.png)
