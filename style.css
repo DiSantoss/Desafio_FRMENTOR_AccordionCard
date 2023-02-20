@@ -1,0 +1,108 @@
+
+body {
+    background:linear-gradient(to right, hsl(273, 75%, 66%),hsl(240, 73%, 65%) );
+    font-family: 'Kumbh Sans';
+    font-weight: 300;
+}
+
+
+#containerdad {
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#containersun {
+    display: flex;
+    width: 880px;
+    height: 450px;
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: aliceblue;
+  
+}
+
+#boxleft {
+    flex: 1;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    background-image: url(./images/bg-pattern-desktop.svg);
+    background-position: center center; /* centraliza a imagem no centro do elemento */
+    background-repeat: no-repeat; /* evita que a imagem se repita */
+    background-size: cover; /* faz a imagem ocupar todo o espaço do elemento */
+    background-position-x: -80px;
+  background-position-y: 20px;
+}
+
+#boxright {
+    flex: 1;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid transparent;
+    margin: 10px;
+    margin-left: 40px;
+    
+}
+
+#woman {
+    width: 100%;
+    position: relative; /* Permite que a imagem seja movida */
+    left: -70px;
+    top: 50px;
+ 
+}
+
+#imgbox {
+    width: 12%;
+    position: absolute;
+    top: 265px;
+    left: 110px;
+}
+
+
+
+#options {
+    color:hsl(240, 6%, 50%) ;
+    Font-size: 15px;
+
+}
+
+#options p:hover {
+    color: hsl(14, 88%, 65%);
+  
+    font-family: 'Kumbh Sans';
+    font-weight: 200;
+}
+
+#options p {
+    color:hsl(240, 6%, 50%) ;
+    Font-size: 15px;
+    padding-bottom: 15px;
+    border-bottom: 0.5px solid rgb(221, 220, 220);
+    font-weight: 400;
+
+}
+
+
+
+#miniop p img {
+    margin-left: 15%;
+    height:20px;
+    cursor: pointer;
+    
+}
+
+
+#faq {
+    margin-bottom: 50px;
+}
+
+#none1 , #none2 ,#none3 ,#none4 ,#none5 {
+    display: none;
+}
+
+.first-paragraph {
+    color: blue;
+    font-weight: bold;
+  }
